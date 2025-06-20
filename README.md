@@ -22,12 +22,5 @@ A sleek and minimal to-do list application with support for dark mode! Users can
 - Local Storage API
 
 #### 🔗 Live Demo  
-[👉 Click here to try the To-Do List App](https://parve5h.github.io/js-mini-projects/todo-list/)  
-<!-- Replace the above URL with your actual GitHub Pages link -->
-
-#### 📷 Screenshots  
-<!-- Add your own screenshots in the folder and link them here -->
-
-
----
+[👉 Click here to try the To-Do List App](https://parve5h.github.io/js-mini-projects/todo-app/)  
 
