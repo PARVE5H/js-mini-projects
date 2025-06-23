@@ -72,7 +72,30 @@ A minimal E-Commerce Cart system where users can:
 ---
 
 
+### 4. 💸 Expense Tracker
 
+A simple Expense Tracker application that allows users to:
+
+- ➕ Add expenses with name and amount  
+- 🗑️ Delete individual expenses  
+- 💵 View real-time total expense amount  
+- 🚫 Form validation for invalid amounts  
+- 💾 Expense data saved using **Local Storage**, so data persists after page refresh  
+- ✅ Dark theme responsive UI  
+
+#### 🔧 Technologies & Features
+- HTML5, CSS3  
+- JavaScript  
+- DOM Manipulation  
+- Event Listeners  
+- Local Storage API  
+- Responsive Dark Theme  
+- Basic Form Validation  
+
+#### 🔗 Live Demo  
+👉 [Try the Expense Tracker App](https://parve5h.github.io/js-mini-projects/expense-tracker/)  
+
+----
 
 
 
