@@ -22,7 +22,7 @@ A sleek and minimal to-do list application with support for dark mode! Users can
 - Local Storage API
 
 #### 🔗 Live Demo  
-[👉 Click here to try the To-Do List App](https://parve5h.github.io/js-mini-projects/todo-app/)  
+👉 [Click here to try the To-Do List App](https://parve5h.github.io/js-mini-projects/todo-app/)  
 
 ---
 
@@ -42,7 +42,37 @@ A sleek weather application that allows users to:
 - Async/Await for fetching data
 
 #### 🔗 Live Demo:  
-[👉 Open Weather App](https://parve5h.github.io/js-mini-projects/weather-app/)
+👉 [Open Weather App](https://parve5h.github.io/js-mini-projects/weather-app/)
+
+
+---
+
+
+### 3. 🛒 SmartCart - E-Commerce Cart Prototype
+
+A minimal E-Commerce Cart system where users can:
+
+- ➕ Add products to the cart  
+- 🗑️ Remove items from the cart  
+- 💵 View real-time total price  
+- 💾 Cart data is saved using **Local Storage**, so items persist even after page refresh  
+- ✅ Smooth UI with dark mode look  
+
+#### 🔧 Technologies & Features
+- HTML5, CSS3  
+- JavaScript  
+- DOM Manipulation  
+- Event Listeners  
+- Local Storage API  
+- Responsive Dark Theme  
+
+#### 🔗 Live Demo  
+👉 [Try the SmartCart App](https://parve5h.github.io/js-mini-projects/smart-cart/)  
+
+---
+
+
+
 
 
 
