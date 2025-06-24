@@ -30,9 +30,9 @@ A sleek and minimal to-do list application with support for dark mode! Users can
 ### 2. 🌦️ Weather App (OpenWeather API)
 
 A sleek weather application that allows users to:
-- Search for any city worldwide
-- Get real-time **temperature** and **weather conditions**
-- Use data from **OpenWeatherMap API**
+- 🔍 Search for any city worldwide
+- 🌡️ Get real-time **temperature** and **weather conditions**
+- ☁️ Use data from **OpenWeatherMap API**
 
 #### 🔧 Technologies Used:
 - HTML, CSS
@@ -98,6 +98,41 @@ A simple Expense Tracker application that allows users to:
 ----
 
 
+### 5. 🧠 Quiz App
 
+A responsive, dark-themed Quiz Application where users can:
 
+- ❓ Answer multiple-choice questions  
+- ✅ Get instant feedback for correct answers  
+- ❌ See visual indication for wrong answers and correct choice  
+- 🧾 View final score after completing the quiz  
+- 🔄 Restart the quiz anytime  
+
+#### 🔧 Technologies & Features
+
+- HTML5, CSS3  
+- JavaScript  
+- DOM Manipulation  
+- Event Listeners  
+- Responsive Dark Theme  
+- Basic Score Tracking  
+
+#### 🔗 Live Demo  
+👉 [Try the Quiz App](https://parve5h.github.io/js-mini-projects/quiz-app/)
+
+---
+
+## 🙋‍♂️ Author
+
+**Parvesh Bansal**  
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/parvesh-bansal/)  
+- ✖️ [X (Twitter)](https://twitter.com/parve5h)  
+- 📸 [Instagram](https://www.instagram.com/parve5h)  
+- 📧 [Email Me](mailto:parveshbansal063@gmail.com)  
+- 👨‍💻 [GitHub Profile](https://github.com/parve5h)
+
+  ---
 
