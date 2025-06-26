@@ -44,6 +44,8 @@ A sleek weather application that allows users to:
 #### 🔗 Live Demo:  
 👉 [Open Weather App](https://parve5h.github.io/js-mini-projects/weather-app/)
 
+👉 [Open Weather App V2](https://parve5h.github.io/js-mini-projects/weather-app_V2/)
+
 
 ---
 
